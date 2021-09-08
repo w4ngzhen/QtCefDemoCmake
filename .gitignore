@@ -3,6 +3,8 @@
 
 .vs/
 
+CefFiles/
+
 # User-specific files
 *.suo
 *.user
